@@ -39,6 +39,9 @@ Phần mềm được đội ngũ tác giả của UMT.NewMountain open source t
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
+## 📜 Code of Conduct
+
+Chúng tôi cam kết tạo ra một môi trường đóng góp an toàn và thân thiện. Vui lòng đọc [Code of Conduct](./.github/CODE_OF_CONDUCT.md) để hiểu các quy tắc chung.
 
 # umt.newmountain![](https://raw.githubusercontent.com/appsmithorg/appsmith/release/static/appsmith_logo_primary.png)
 
